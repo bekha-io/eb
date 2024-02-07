@@ -69,7 +69,7 @@ package main
 
 import (
     "fmt"
-    "github.com/yourusername/eventbus"
+    "github.com/bekha-io/eb"
 )
 
 func main() {
